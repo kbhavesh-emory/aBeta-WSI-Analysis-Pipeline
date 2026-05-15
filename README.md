@@ -16,9 +16,7 @@ This repository contains the full pipeline for automated detection and quantific
 - See dependencies below
 
 ```bash
-pip install torch==2.11.0+cu128 --index-url https://download.pytorch.org/whl/cu128
-pip install h5py openslide-python large-image numpy pandas scikit-learn \
-            scikit-image matplotlib seaborn scipy tqdm kornia python-docx openpyxl
+pip install -r requirements.txt
 ```
 
 ## Pipeline Summary
