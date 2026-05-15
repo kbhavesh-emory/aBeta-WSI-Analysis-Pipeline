@@ -42,10 +42,6 @@ pip install -r requirements.txt
 - Mean elongation ↔ Thal phase: r = 0.384, p = 0.001
 - Mean area ↔ Age at death (AD only): r = −0.284, p = 0.025
 
-## Data Availability
-
-SVS whole-slide images are archived in the APOLLO Neuropathology Program at Wayne State University and are not publicly available due to patient privacy. Per-patient aggregate metrics are provided in `patient_abeta_metrics.csv`.
-
 ## License
 
 For academic and research use only. 
