@@ -1,0 +1,175 @@
+{
+    "als": {
+        "als": {
+            "E20-71": {
+                "frontal": "E20-71_3 pTDP.svs",
+                "pons": "E20-71_16 pTDP.svs",
+                "medulla": "E20-71_17 pTDP.svs",
+                "upper_spinal_cord": "E20-71_19 pTDP.svs",
+                "lower_spinal_cord": "E20-71_21 pTDP.svs",
+                "control": "pTDP CON.svs"
+            },
+            "E23-11": {
+                "frontal": "E23-11_pTDP_3.svs",
+                "pons": "E23-11_pTDP_15.svs",
+                "medulla": "E23-11_pTDP_16.svs",
+                "upper_spinal_cord": "E23-11_pTDP_18.svs",
+                "lower_spinal_cord": "E23-11_pTDP_20.svs"
+            },
+            "E21-121": {
+                "frontal": "E21-121_pTDP_3.svs",
+                "pons": "E21-121_pTDP_15.svs",
+                "medulla": "E21-121_pTDP_16.svs",
+                "upper_spinal_cord": "E21-121_pTDP_18.svs",
+                "lower_spinal_cord": "E21-121_pTDP_20.svs"
+            },
+            "E19-27": {
+                "frontal": "E19-27_A3_pTDP.svs",
+                "pons": "E19-27_A16_pTDP.svs",
+                "medulla": "E19-27_A17_pTDP.svs",
+                "upper_spinal_cord": "E19-27_A21_pTDP.svs",
+                "lower_spinal_cord": "E19-27_23_pTDP.svs"
+            }
+        }
+    },
+    "ftld_tdp": {
+        "unknown": {
+            "E21-95": {
+                "hippocampus": "E21-95_pTDP_1.svs",
+                "amygdala": "E21-95_pTDP_2.svs",
+                "frontal": "E21-95_pTDP_3.svs",
+                "temporal": "E21-95_pTDP_4.svs",
+                "cingulate": "E21-95_pTDP_8.svs",
+                "midbrain": "E21-95_pTDP_13.svs",
+                "anterior_basal_ganglia": "E21-95_pTDP_9.svs",
+                "posterior_basal_ganglia": "E21-95_pTDP_10.svs"
+    
+            },
+            "E15-45": {
+                "hippocampus": "A15-45_1_pTDP.svs",
+                "amygdala": "A15-45_2_pTDP.svs",
+                "frontal": "A15-45_3_pTDP.svs",
+                "temporal": "A15-45_4_pTDP.svs",
+                "cingulate": "A15-45_9_pTDP.svs",
+                "insular": "A15-45_10_pTDP.svs"
+            },
+            "E16-131": {
+                "hippocampus": "A16-131_1_pTDP.svs",
+                "amygdala": "A16-131_2_pTDP.svs",
+                "frontal": "A16-131_3_pTDP.svs",
+                "temporal": "A16-131_4_pTDP.svs",
+                "cingulate": "A16-131_8_pTDP.svs",
+                "insular": "A16-131_9_pTDP.svs"
+    
+            },
+            "E15-30": {
+                "amygdala": "E15-30_2_pTDP.svs",
+                "frontal": "E15-30_3_pTDP.svs",
+                "temporal": "E15-30_4_pTDP.svs",
+                "insular": "E15-30_10_pTDP.svs"
+            }
+        },
+        "type_a": {
+            
+        },
+        "type_b": {
+            "E22-95": {
+                "hippocampus":"E22-95_pTDP_1.svs",
+                "amygdala": "E22-95_pTDP_2.svs",
+                "frontal": "E22-95_pTDP_3.svs",
+                "temporal": "E22-95_pTDP_4.svs",
+                "cingulate": "E22-95_pTDP_8.svs",
+                "insular": "E22-95_pTDP_9.svs"
+    
+            },
+            "E17-140": {
+                "hippocampus": "E17-140_1_PTDP.svs",
+                "amygdala": "E17-140_2_PTDP.svs",
+                "frontal": "E17-140_3_PTDP.svs",
+                "temporal": "E17-140_4_PTDP.svs",
+                "insular": "E17-140_9_pTDP.svs"
+            }
+        },
+        "type_c": {
+            "E19-139": {
+                "hippocampus": "E19-139_1_ptdp.svs",
+                "amygdala": "E19-139_2_ptdp.svs",
+                "frontal": "E19-139_3_ptdp.svs",
+                "temporal": "E19-139_4_ptdp.svs",
+                "cingulate": "E19-139_8_ptdp.svs",
+                "insular": "E19-139_9_ptdp.svs"
+            },
+            "E15-69": {
+                "hippocampus": "E15-69_1_PTDP.svs",
+                "amygdala": "E15-69_2_PTDP.svs",
+                "frontal": "E15-69_3_PTDP.svs",
+                "temporal": "E15-69_4_PTDP.svs",
+                "cingulate": "E15-69_9_PTDP.svs",
+                "insular": "E15-69_10_PTDP.svs"
+            }
+        },
+        "type_d": {
+        },
+        "type_e": {
+        }
+    },
+    "late_nc": {
+        "stage_1": {
+            "E24-44": {
+                "hippocampus": "",
+                "amygdala": "",
+                "frontal": ""
+            },
+            "E20-56": {
+                "hippocampus": "",
+                "amygdala": "",
+                "frontal": ""
+            },
+            "E20-55": {
+                "hippocampus": "",
+                "amygdala": "",
+                "frontal": ""
+            }
+
+        },
+        "stage_2": {
+            "E24-12": {
+                "hippocampus": "",
+                "amygdala": "",
+                "frontal": ""
+            },
+            "E23-113": {
+                "hippocampus": "",
+                "amygdala": "",
+                "frontal": ""
+            },
+            "E22-91": {
+                "hippocampus": "",
+                "amygdala": "",
+                "frontal": ""
+            },
+            "E20-98": {
+                "hippocampus": "",
+                "amygdala": "",
+                "frontal": ""
+            }
+        },
+        "stage_3": {
+            "E23-113": {
+                "hippocampus": "",
+                "amygdala": "",
+                "frontal": ""
+            },
+            "E20-138": {
+                "hippocampus": "",
+                "amygdala": "",
+                "frontal": ""
+            },
+            "E24-91": {
+                "hippocampus": "",
+                "amygdala": "",
+                "frontal": ""
+            }
+        }
+    }
+}

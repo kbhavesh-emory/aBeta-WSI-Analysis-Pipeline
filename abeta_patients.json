@@ -1,0 +1,291 @@
+{
+    "ad": {
+        "ad": {
+            "E04-89": {
+                "hippocampus": "E04-89_ABETA_1A.svs"
+            },
+            "E06-184": {
+                "hippocampus": "E06-184_ABETA_1A.svs"
+            },
+            "E06-187": {
+                "hippocampus": "E06-187_ABETA_1A.svs"
+            },
+            "E10-149": {
+                "hippocampus": "E10-149_ABETA_1B.svs"
+            },
+            "E14-104": {
+                "frontal": "E14-104_ABETA_1.svs"
+            },
+            "E14-115": {
+                "hippocampus": "E14-115_ABETA_1.svs"
+            },
+            "E14-12": {
+                "hippocampus": "E14-12_ABETA_1.svs"
+            },
+            "E14-134": {
+                "hippocampus": "E14-134_ABETA_1.svs"
+            },
+            "E14-14": {
+                "hippocampus": "E14-14_ABETA_1.svs"
+            },
+            "E14-161": {
+                "hippocampus": "E14-161_ABETA_1.svs"
+            },
+            "E14-24": {
+                "hippocampus": "E14-24_ABETA_1.svs"
+            },
+            "E14-59": {
+                "hippocampus": "E14-59_ABETA_1.svs"
+            },
+            "E15-55": {
+                "hippocampus": "E15-55_ABETA_1.svs"
+            },
+            "E15-72": {
+                "hippocampus": "E15-72_ABETA_1.svs"
+            },
+            "E17-138": {
+                "hippocampus": "E17-138_ABETA_1.svs"
+            },
+            "E17-54": {
+                "hippocampus": "E17-54_ABETA_1.svs"
+            },
+            "E18-127": {
+                "hippocampus": "E18-127_1_Ab.svs"
+            },
+            "E18-27": {
+                "hippocampus": "E18-27_1_AB.svs"
+            },
+            "E18-38": {
+                "hippocampus": "E18-38_1_AB.svs"
+            },
+            "E18-47": {
+                "hippocampus": "E18-47_1_AB.svs"
+            },
+            "E18-49": {
+                "hippocampus": "E18-49_1_AB.svs"
+            },
+            "E18-61": {
+                "hippocampus": "E18-61_1_AB.svs"
+            },
+            "E18-70": {
+                "hippocampus": "E18-70_ 1 AB.svs"
+            },
+            "E19-100": {
+                "hippocampus": "E19-100_1_AB.svs"
+            },
+            "E19-131": {
+                "hippocampus": "E19-131_1 Ab.svs"
+            },
+            "E19-132": {
+                "hippocampus": "E19-132_1 Ab.svs"
+            },
+            "E19-141": {
+                "hippocampus": "E19-141_1_AB.svs"
+            },
+            "E19-142": {
+                "hippocampus": "E19-142_1_AB.svs"
+            },
+            "E19-35": {
+                "hippocampus": "E19-35_1_AB.svs"
+            },
+            "E19-75": {
+                "hippocampus": "E19-75_1_Ab.svs"
+            },
+            "E19-79": {
+                "hippocampus": "E19-79_1_AB.svs"
+            },
+            "E19-99": {
+                "hippocampus": "E19-99_1_AB.svs"
+            },
+            "E20-106": {
+                "hippocampus": "E20-106_1 AB.svs"
+            },
+            "E20-122": {
+                "hippocampus": "E20-122_1_AB.svs"
+            },
+            "E20-138": {
+                "hippocampus": "E20-138_1_AB.svs"
+            },
+            "E20-139": {
+                "hippocampus": "E20-139_1_AB.svs"
+            },
+            "E20-17": {
+                "hippocampus": "E20-17_1_AB.svs"
+            },
+            "E20-174": {
+                "hippocampus": "A20-174_1_ABETA.svs"
+            },
+            "E20-175": {
+                "hippocampus": "A20-175_1_ABETA.svs"
+            },
+            "E20-55": {
+                "hippocampus": "E20-55_1 AB.svs"
+            },
+            "E20-56": {
+                "hippocampus": "E20-56_1 AB.svs"
+            },
+            "E20-98": {
+                "hippocampus": "E20-98_1 AB.svs"
+            },
+            "E21-03": {
+                "hippocampus": "A21-03_1_ABETA.svs"
+            },
+            "E21-110": {
+                "hippocampus": "E21-110_ABETA_1.svs"
+            },
+            "E21-17": {
+                "hippocampus": "A21-17_1_ABETA.svs"
+            },
+            "E21-179": {
+                "hippocampus": "E21-179_ABETA_1.svs"
+            },
+            "E21-65": {
+                "hippocampus": "A21-65_ABETA_1.svs"
+            },
+            "E22-02": {
+                "hippocampus": "E22-02_ABETA_1.svs"
+            },
+            "E22-03": {
+                "hippocampus": "E22-03_ABETA_1.svs"
+            },
+            "E22-119": {
+                "hippocampus": "E22-119_1_AB.svs"
+            },
+            "E22-132": {
+                "hippocampus": "E22-132_1_AB.svs"
+            },
+            "E22-15": {
+                "hippocampus": "E22-15_ABETA_1.svs"
+            },
+            "E22-80": {
+                "hippocampus": "E22-80_ABETA_1.svs"
+            },
+            "E22-91": {
+                "hippocampus": "E22-91_ABETA_1.svs"
+            },
+            "E22-92": {
+                "hippocampus": "E22-92_ABETA_1.svs"
+            },
+            "E23-02": {
+                "hippocampus": "E23-02_1_AB.svs"
+            },
+            "E23-06": {
+                "hippocampus": "E23-06_ABETA_1-001.svs"
+            },
+            "E23-07": {
+                "hippocampus": "E23-07_1_AB.svs"
+            },
+            "E23-113": {
+                "hippocampus": "E23-113_1_AB.svs"
+            },
+            "E23-116": {
+                "hippocampus": "E23-116_ABETA_1.svs"
+            },
+            "E23-136": {
+                "hippocampus": "E23-136_ABETA_1.svs"
+            },
+            "E23-145": {
+                "hippocampus": "E23-145_ABETA_1.svs"
+            },
+            "E23-79": {
+                "hippocampus": "E23-79_ABETA_1.svs"
+            },
+            "E23-82": {
+                "hippocampus": "E23-82_ABETA_1.svs"
+            },
+            "E24-12": {
+                "hippocampus": "E24-12_ABETA_1.svs"
+            },
+            "E24-15": {
+                "hippocampus": "E24-15_ABETA_1.svs"
+            },
+            "E24-52": {
+                "hippocampus": "E24-52_1_AB.svs"
+            },
+            "E24-91": {
+                "hippocampus": "E24-91_1_AB.svs"
+            },
+            "OS-240715": {
+                "hippocampus": "OS-240715_ABETA_1.svs"
+            },
+            "E15-01": {
+                "hippocampus": "E15-1_1_AB.svs"
+            },
+            "E15-110": {
+                "hippocampus": "E15-110_1_Ab.svs"
+            },
+            "E15-140": {
+                "hippocampus": "E15-140_1_AB.svs"
+            },
+            "E15-92": {
+                "hippocampus": "E15-92_1_Abeta.svs"
+            },
+            "E16-110": {
+                "hippocampus": "E16-110_1_AB.svs"
+            },
+            "E16-114": {
+                "hippocampus": "E16-114_1_AB.svs"
+            },
+            "E16-123": {
+                "hippocampus": "E16-123_1_AB.svs"
+            },
+            "E16-19": {
+                "hippocampus": "1002143.svs"
+            },
+            "E16-21": {
+                "hippocampus": "E16-21_1_AB.svs"
+            },
+            "E16-66": {
+                "hippocampus": "A16-66_1_AB.svs"
+            },
+            "OS-160608": {
+                "hippocampus": "OS160608_1_AB.svs"
+            },
+            "E17-05": {
+                "hippocampus": "E17-5_1_AB.svs"
+            },
+            "E17-143": {
+                "hippocampus": "E17-143_01_AB.svs"
+            },
+            "E17-147": {
+                "hippocampus": "E17-147_1_AB.svs"
+            },
+            "E17-150": {
+                "hippocampus": "E17-150_1_AB.svs"
+            },
+            "E17-21": {
+                "hippocampus": "E17-21_1_AB.svs"
+            },
+            "E17-32": {
+                "hippocampus": "E17-32_1_AB.svs"
+            },
+            "E17-36": {
+                "hippocampus": "E17-36_1_AB.svs"
+            },
+            "E17-47": {
+                "hippocampus": "A17-47_1_AB.svs"
+            },
+            "E17-56": {
+                "hippocampus": "E17-56_1_AB.svs"
+            },
+            "E17-57": {
+                "hippocampus": "E17-57_1_AB.svs"
+            },
+            "E17-71": {
+                "hippocampus": "E17-71_1_AB.svs"
+            },
+            "OS_170124": {
+                "hippocampus": "OS170124_1_AB.svs"
+            },
+            "OS_170518": {
+                "hippocampus": "OS170518_1_AB.svs"
+            },
+            "E18-07": {
+                "hippocampus": "E18-7_1_AB.svs"
+            },
+            "E18-18": {
+                "hippocampus": "E18-18_1_AB.svs"
+            }
+        }
+    }
+}
