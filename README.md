@@ -9,39 +9,6 @@
 ## Overview
 
 This repository contains the full pipeline for automated detection and quantification of amyloid-beta (Aβ) plaques in digitized brain histology whole-slide images (WSIs) from the APOLLO Neuropathology Program biobank. The pipeline processes SVS-format immunohistochemically stained sections and produces per-plaque morphometric features correlated with neuropathological staging and clinical outcomes.
-
-## Repository Structure
-
-```
-aBeta-WSI-Analysis-Pipeline/
-├── WSU/                              # Pipeline source code
-│   ├── ppc/                          # Probabilistic Plaque Counting model
-│   │   ├── ppc_processing.py         # Main WSI processing function
-│   │   ├── PPCModel.py               # GPU-accelerated segmentation model
-│   │   ├── hue_auto_detect.py        # Automatic HSI hue detection
-│   │   ├── HueParams.py              # Hue parameter dataclass
-│   │   └── ppc_visualization.py      # Visualization utilities
-│   └── wsi/                          # WSI helper utilities
-│       ├── wsi_helpers.py
-│       └── plan.py
-├── abeta_analysis.ipynb              # Main analysis notebook (all cells)
-├── abeta_patients.json               # AD patient manifest (SVS filenames)
-├── tdp_patients.json                 # TDP/ALS/LATE-NC patient manifest
-├── patient_abeta_metrics.csv         # Per-patient Aβ burden metrics (CSV)
-├── abeta_quantification_results.xlsx # Full quantification results (Excel)
-├── figures/                          # Output figures (PNGs)
-│   ├── fig1_demographics.png
-│   ├── fig4_abeta_correlation_heatmap.png
-│   ├── fig4_scatter_plots.png
-│   ├── fig5_pca_with_quant.png
-│   ├── abeta_burden_by_group.png
-│   └── test_slide_distribution.png
-├── paper.docx                        # Full IEEE-format research paper
-├── make_paper.py                     # Script to regenerate paper.docx
-├── details.docx                      # Detailed pipeline documentation
-└── .gitignore
-```
-
 ## Requirements
 
 - Python 3.12
